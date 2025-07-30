@@ -1,1 +1,1 @@
-export const URL  = "http://localhost:3000"
+export const URL  = "https://traezr-final-2.onrender.com"
